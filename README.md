@@ -266,7 +266,7 @@ Nodes | Edges | BFS ms  | DFS ms  | Greedy ms | Knapsack ms
 
 ## 👤 Author
 
-- **mdfuadanan** (ID: `251014032`)
+- **Md Fuad Anan**
 
 ---
 
