@@ -84,9 +84,9 @@ graph TD
     %% Damaged edges
     NS -.->|DAMAGED: 6 km / Risk 7| OBC
     OBC -.->|DAMAGED: 4 km / Risk 8| HTV
-
+    
     classDef damaged fill:#f9d5d5,stroke:#e74c3c,stroke-width:2px,stroke-dasharray: 5 5;
-    classDef isolated fill:#fadbd8,stroke:#c0392b,stroke-width:3px;
+    classDef isolated fill:#7f1d1d,stroke:#ef4444,stroke-width:2px,color:#ffffff;
     class OBC isolated;
 ```
 
